@@ -1,6 +1,7 @@
 const generateTWContent = (appName, email, contact, activeDate) =>
   `
-# <img src='logo.svg' /> **隱私權政策聲明**
+# <img src='logo.svg' /> 
+# **隱私權政策聲明**
 
 生效日期：${activeDate}
 
