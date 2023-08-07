@@ -1,2 +1,2 @@
-# beeding_privacy_policy
+# Beeding Privacy Policy
 Privacy Policy Statement Page
