@@ -1,6 +1,7 @@
 const generateENContent = (appName, email, contact, activeDate) =>
   `
-# <img src='logo.svg' />  **Privacy Policy Statement**
+# <img src='logo.svg' />  
+# **Privacy Policy Statement**
 
 Effective Date: ${activeDate}
 
