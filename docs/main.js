@@ -3,8 +3,8 @@ class Main {
 
   appName = "Beeding";
   email = "aoma-liao@meepshop.com";
-  contact = "https://meepshop.github.io/beeding_privacy_policy/";
-  activeDate = "2023/09/01";
+  contact = "https://beeding-store.meepshoper.com/";
+  activeDate = "2023/08/01";
   twContent = '';
   enContent = '';
 
