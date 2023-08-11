@@ -28,9 +28,11 @@ class Main {
   applyContent = () => {
     let locale = this.getLocale();
     let content = locale === "tw" ? this.twContent : this.enContent;
-    let localeContent = locale === "tw" ? "English" : "繁體中文";
+    let localeContent = locale === "tw" ? "English" : "繁體中文"; 
     let localeLink = locale === "tw" ? "?en" : "?tw";
+    let localeTitle = locale === "tw" ? "English" : "繁體中文";
 
+    document.title = "Beeding Ltd. " + (locale === "tw" ? "隱私權政策聲明" : "Privacy Policy Statement");
     document.getElementById("content").innerHTML = marked.parse(content);
     document.getElementById(
       "locale"
