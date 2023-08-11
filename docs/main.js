@@ -2,7 +2,7 @@ class Main {
   constructor() {}
 
   appName = "Beeding";
-  email = "aoma-liao@meepshop.com";
+  email = "develop@meepshop.com";
   contact = "https://beeding-store.meepshoper.com/";
   activeDate = "2023/08/01";
   twContent = '';
